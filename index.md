@@ -95,7 +95,7 @@ Last updated: May 2013 -->
 
 ## Compétences techniques
 
-__Python pour le machine learning :__ scikit-learn, Tensorflow, Keras, natural languge processing toolkit (NLPK).
+__Python pour le machine learning :__ scikit-learn, Tensorflow, Keras, natural languge processing toolkit (NLTK).
 
 __Bases de données :__ MySQL et SQLite
 
