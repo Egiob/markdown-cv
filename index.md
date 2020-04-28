@@ -1,91 +1,120 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: CV de Raphaël Boige
 ---
+
 # Raphaël Boige
-Etudiant en science des données à Télécom Paris
+\
+Étudiant en science des données à Télécom Paris.
+
+
+### ![](photo_id.jpg)
 
 <div id="webaddress">
 <a href="raphael.boige@telecom-paris.fr">raphael.boige@telecom-paris.fr</a>
-| <a href="https://www.linkedin.com/in/raphaelboige/">Mon profil Linkedin</a>
+| <a href="https://www.linkedin.com/in/raphaelboige/">https://www.linkedin.com/in/raphaelboige/</a>
 </div>
 
+## Actuellement
 
-### Actuellement
+Étudiant en 2ème année de l'école d'ingénieur Télécom Paris. Master 1 science des données et cybersécurité.
 
-Standing on the shoulders of giants
+### Spécialtés
+**Data Science** : machine learning, mining of large datasets, graph mining, bases de données, optimisation, statistiques avancées, text mining.
 
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+**Cybersécurité** : infrastructures Internet, architecture et protocoles réseaux,	services de sécurité, mécanismes de cryptographie, contrôle d'accès, méthodes et pratiques de hacking,
 
 
 
-## Awards
+## Formation
 
-`2012`
-President, *Royal Society*, London, UK
+`2018-2021`
+__Télécom Paris, Paris puis Palaiseau__
+- Etudiant ingénieur promo 2021
 
-Associate, *French Academy of Science*, Paris, France
+`2016 - 2018`
 
+__Lycée Jean-Baptiste Say, Paris__
+- CPGE PTSI/PT*
 
+`2013-2016`
+__Lycée Albert Camus, Fréjus__
 
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- Bac S mention très bien
 
 
-## Occupation
+## Expériences
 
-`1600`
-__Royal Mint__, London
+`2020`
+__Co-auteur__ du livre *Intégrer l'X ou l'école d'ingénieurs de tes rêves avec les Sherpas*. À paraître en Juin 2020 aux éditions Vuibert.
 
-- Warden
-- Minted coins
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
+
+\
+`2019`
+__Stage d'été de 6 semaines dans la startup Les Sherpas__
+- Développement d’outils de scrapping en langage Python (scrapy, Selenium).
+- Rédaction d’articles web optimisés sémantiquement (SEO).
+
+`2018-2020`
+__Professeur particulier__
+- Cours de maths, physique et sciences de l'ingénieur niveaux lycée et CPGE.
+
+`2017-2018`
+__Travail d’été en boulangerie__
+ - Cuisson du pain, service au client, gestion de la caisse.
+
+### Vie associative
+
+`2019-2020`
+__Vice-Président du Bureau des Sports de Télécom Paris__ une association loi 1901 avec 400 cotisants, 13 membres et plus de 80000€ de budget.
+- Gestion de la vie sportive de l’école (infrastructures, matériel, coachs, tournois sportifs).
+
+`2019-2020`
+__Président de l'association Téléfrom__
+- Evenements et dégustations centrés autour du fromage de terroir.
+- Rassemblement de centaines d'étudiants au sein de l'école.
+
+### Projets
+
+`2020`
+__Analyse et mise en oeuvre d'attaque sur le CMS Wordpress__
+- Exploitation de failles et vulnérabilités (principalement XSS et CRSF).
+
+`2020`
+__Challenges de machine learning__
+- Quelques compétitions Kaggle pour la connaissance uniquement.
+
+`2019`
+__Création d’un site d’e-commerce__ sur mon temps libre, avec les outils WordPress et WooCommerce.
 
 
 <!-- ### Footer
-
 Last updated: May 2013 -->
 
+## Compétences techniques
 
+__Python pour le machine learning :__ scikit-learn, Tensorflow, Keras, natural languge processing toolkit (NLPK).
+
+__Bases de données :__ MySQL et SQLite
+
+__Développement Web :__ bases solides en HTML, CSS, PHP et JS coté client et coté serveur (NodeJS, socket.io).
+
+__Programmation :__ niveau avancé en Python, bases en C, C++ et Java.
+
+### Langages
+
+__Français :__ langue natale.
+
+__Anglais :__ lu et parlé couramment, niveau C1.
+
+__Arabe littérale :__ vocabulaire sommaire, lecture et écriture.
+
+__Italien :__ bases.
+
+## Centres d'intérets
+
+__Musique :__ guitare et ukulele.
+
+__Tennis :__  quelques compétitions universitaires.

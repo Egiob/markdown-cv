@@ -187,7 +187,14 @@ strong {
 	display: none;
 }
 
+img {
+	top: -120px;
+	left:65%;
+	position: absolute;
+	width:110px;
+	max-width: 45%;
 
+}
 
 /*
 @media only screen and (max-width: 480px) {

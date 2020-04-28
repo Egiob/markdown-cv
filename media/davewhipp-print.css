@@ -190,5 +190,10 @@ strong {
 	visibility: hidden;
 }
 
+img {
+	top:-100px;
+	left:80px;
+	position: absolute;
+	width:100px;
 
-
+}
