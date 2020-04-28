@@ -4,7 +4,7 @@ title: CV de Raphaël Boige
 ---
 
 # Raphaël Boige
-\
+
 Étudiant en science des données à Télécom Paris.
 
 
@@ -51,7 +51,7 @@ __Co-auteur__ du livre *Intégrer l'X ou l'école d'ingénieurs de tes rêves av
 
 
 
-\
+
 `2019`
 __Stage d'été de 6 semaines dans la startup Les Sherpas__
 - Développement d’outils de scrapping en langage Python (scrapy, Selenium).
