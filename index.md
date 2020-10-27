@@ -4,7 +4,7 @@ title: CV de Raphaël Boige
 ---
 
 # Raphaël Boige
-\
+
 Étudiant en science des données à Télécom Paris.
 
 **Stage de fin d'étude en Data Science**
@@ -53,7 +53,7 @@ __Lycée Albert Camus, Fréjus__
 __Co-auteur__ du livre *Intégrer l'X ou l'école d'ingénieurs de tes rêves avec les Sherpas*. Paru en Juin 2020 aux editions Vuibert.
 
 
-\
+
 `2019`
 __Stage d'été de 6 semaines dans la startup Les Sherpas__
 - Développement d’outils de scrapping en langage Python (scrapy, Selenium).
