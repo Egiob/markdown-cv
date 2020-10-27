@@ -7,6 +7,7 @@ title: CV de Raphaël Boige
 \
 Étudiant en science des données à Télécom Paris.
 
+**Stage de fin d'étude en Data Science**
 
 ### ![](photo_id.jpg)
 
@@ -15,9 +16,12 @@ title: CV de Raphaël Boige
 | <a href="https://www.linkedin.com/in/raphaelboige/">https://www.linkedin.com/in/raphaelboige/</a>
 </div>
 
+
+
+
 ## Actuellement
 
-Étudiant en 2ème année de l'école d'ingénieur Télécom Paris. Master 1 science des données et cybersécurité.
+Master 2 IPP Data Science (Ecole Polytechnique, Télécom Paris, ENSTA, ENSAE ...)
 
 ### Spécialtés
 **Data Science** : machine learning, mining of large datasets, graph mining, bases de données, optimisation, statistiques avancées, text mining.
@@ -46,9 +50,7 @@ __Lycée Albert Camus, Fréjus__
 ## Expériences
 
 `2020`
-__Co-auteur__ du livre *Intégrer l'X ou l'école d'ingénieurs de tes rêves avec les Sherpas*. À paraître en Juin 2020 aux éditions Vuibert.
-
-
+__Co-auteur__ du livre *Intégrer l'X ou l'école d'ingénieurs de tes rêves avec les Sherpas*. Paru en Juin 2020 aux editions Vuibert.
 
 
 \
@@ -56,6 +58,7 @@ __Co-auteur__ du livre *Intégrer l'X ou l'école d'ingénieurs de tes rêves av
 __Stage d'été de 6 semaines dans la startup Les Sherpas__
 - Développement d’outils de scrapping en langage Python (scrapy, Selenium).
 - Rédaction d’articles web optimisés sémantiquement (SEO).
+
 
 `2018-2020`
 __Professeur particulier__
@@ -95,7 +98,7 @@ Last updated: May 2013 -->
 
 ## Compétences techniques
 
-__Python pour le machine learning :__ scikit-learn, Tensorflow, Keras, natural languge processing toolkit (NLPK).
+__Python pour le machine learning :__ scikit-learn, Tensorflow, Keras, natural languge processing toolkit (NLTK).
 
 __Bases de données :__ MySQL et SQLite
 
