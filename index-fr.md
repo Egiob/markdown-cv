@@ -1,15 +1,15 @@
 ---
 layout: cv
-title: Raphaël Boige resume
+title: CV de Raphaël Boige
 ---
 
 # Raphaël Boige
 
-Applied mathematics and Data Sciences student Telecom Paris/ Ecole Polytechnique
+Étudiant en science des données à Télécom Paris.
 
-**I am looking for an in interniship in Data Science to complete my Master of Science**
+**Stage de fin d'étude en Data Science**
 
-
+### ![](photo_id.jpg)
 
 <div id="webaddress">
 <a href="raphael.boige@telecom-paris.fr">raphael.boige@telecom-paris.fr</a>
@@ -17,39 +17,56 @@ Applied mathematics and Data Sciences student Telecom Paris/ Ecole Polytechnique
 </div>
 
 
-## Education
 
-`2020-2021`
-__Ecole Polytechnique, Palaiseau__ Master of science in applied mathematics.
-**Relevant courses** : Optimization for Data Science, Systems for big data analytics, Statistical learning theory, Deep learning, High dimensional statistics, Reinforcement Learning, Bootstrap and resampling methods, Computer vision
+
+## Actuellement
+
+Master 2 IPP Data Science (Ecole Polytechnique, Télécom Paris, ENSTA, ENSAE ...)
+
+### Spécialtés
+**Data Science** : machine learning, mining of large datasets, graph mining, bases de données, optimisation, statistiques avancées, text mining.
+
+**Cybersécurité** : infrastructures Internet, architecture et protocoles réseaux,	services de sécurité, mécanismes de cryptographie, contrôle d'accès, méthodes et pratiques de hacking,
+
+
+
+## Formation
 
 `2018-2021`
-__Télécom Paris, Paris-Palaiseau__ Graduate engineering school, majoring in computer science and applied mathematics.
-**Relevant courses** : Statistics, Optimization theory, Linear models, Non-Parametric Estimation, Machine learning, NLP, Graph mining.
-
+__Télécom Paris, Paris puis Palaiseau__
+- Etudiant ingénieur promo 2021
 
 `2016 - 2018`
+
 __Lycée Jean-Baptiste Say, Paris__
-Two-year undergraduate intensive course in mathematics and physics to prepare for nationwide competitive examination.
+- CPGE PTSI/PT*
 
 `2013-2016`
 __Lycée Albert Camus, Fréjus__
-Scientific baccalaureat with highest honours.
+
+- Bac S mention très bien
 
 
-## Experiences
+## Expériences
 
 `2020`
-__Co-author__ of the book *Intégrer l'X ou l'école d'ingénieurs de tes rêves avec les Sherpas*, published in June 2020 by Vuibert, a major publishing company in France. The book is a guide for undergraduate students to suceed at the nationwide competitive exams for engineering schools.
+__Co-auteur__ du livre *Intégrer l'X ou l'école d'ingénieurs de tes rêves avec les Sherpas*. Paru en Juin 2020 aux editions Vuibert.
 
 
+
+`2019`
+__Stage d'été de 6 semaines dans la startup Les Sherpas__
+- Développement d’outils de scrapping en langage Python (scrapy, Selenium).
+- Rédaction d’articles web optimisés sémantiquement (SEO).
 
 
 `2018-2020`
 __Professeur particulier__
 - Cours de maths, physique et sciences de l'ingénieur niveaux lycée et CPGE.
 
-
+`2017-2018`
+__Travail d’été en boulangerie__
+ - Cuisson du pain, service au client, gestion de la caisse.
 
 ### Vie associative
 
