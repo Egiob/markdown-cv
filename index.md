@@ -2,10 +2,10 @@
 layout: cv
 title: Raphaël Boige resume
 ---
-
+`French, 21 years old`
 # Raphaël Boige
 
-`French, 21 years old`
+
 French master student in applied mathematics and Data Science at Telecom Paris and Ecole Polytechnique
 
 **I am looking for an in interniship in Data Science to complete my Master of Science.**
@@ -14,9 +14,8 @@ French master student in applied mathematics and Data Science at Telecom Paris a
 
 <div id="webaddress">
 | <a href="raphael.boige@telecom-paris.fr">raphael.boige@telecom-paris.fr</a>
-
-| <a href="https://www.linkedin.com/in/raphaelboige/">https://www.linkedin.com/in/raphaelboige/</a>
-| <a href="https://github.com/Egiob">https://github.com/Egiob</a>
+<br>
+| <a href="https://www.linkedin.com/in/raphaelboige/">https://www.linkedin.com/in/raphaelboige/</a> <br>| <a href="https://github.com/Egiob">https://github.com/Egiob</a>
 </div>
 
 
