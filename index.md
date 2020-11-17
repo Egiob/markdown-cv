@@ -20,60 +20,50 @@ Applied mathematics and Data Sciences student Telecom Paris/ Ecole Polytechnique
 ## Education
 
 `2020-2021`
-__Ecole Polytechnique, Palaiseau__ Master of science in applied mathematics.
-**Relevant courses** : Optimization for Data Science, Systems for big data analytics, Statistical learning theory, Deep learning, High dimensional statistics, Reinforcement Learning, Bootstrap and resampling methods, Computer vision
+__Ecole Polytechnique, Paris (Palaiseau)__ *(Most prestigious engineering school in France)* Master of science in applied mathematics.
+
+**Relevant courses** : Optimization for Data Science, Systems for big data analytics, Statistical learning theory, Deep learning, High dimensional statistics, Reinforcement Learning, Bootstrap and resampling methods, Computer vision.
 
 `2018-2021`
-__Télécom Paris, Paris-Palaiseau__ Graduate engineering school, majoring in computer science and applied mathematics.
+__Télécom Paris, Paris (Palaiseau)__ *(2$^{nd}$ best engineering school in France - T.H.E., 2020)* Graduate engineering school, majoring in computer science and applied mathematics. *(GPA 3.9/4)*
+
 **Relevant courses** : Statistics, Optimization theory, Linear models, Non-Parametric Estimation, Machine learning, NLP, Graph mining.
 
 
 `2016 - 2018`
-__Lycée Jean-Baptiste Say, Paris__
+__Lycée Jean-Baptiste Say, Paris__ Classes préparatoires
+
 Two-year undergraduate intensive course in mathematics and physics to prepare for nationwide competitive examination.
 
 `2013-2016`
-__Lycée Albert Camus, Fréjus__
+__Lycée Albert Camus, Fréjus__ High school
+
 Scientific baccalaureat with highest honours.
 
 
-## Experiences
+## Experiences and projects
 
 `2020`
 __Co-author__ of the book *Intégrer l'X ou l'école d'ingénieurs de tes rêves avec les Sherpas*, published in June 2020 by Vuibert, a major publishing company in France. The book is a guide for undergraduate students to suceed at the nationwide competitive exams for engineering schools.
 
-
-
-
-`2018-2020`
-__Professeur particulier__
-- Cours de maths, physique et sciences de l'ingénieur niveaux lycée et CPGE.
-
-
-
-### Vie associative
-
 `2019-2020`
-__Vice-Président du Bureau des Sports de Télécom Paris__ une association loi 1901 avec 400 cotisants, 13 membres et plus de 80000€ de budget.
-- Gestion de la vie sportive de l’école (infrastructures, matériel, coachs, tournois sportifs).
-
-`2019-2020`
-__Président de l'association Téléfrom__
-- Evenements et dégustations centrés autour du fromage de terroir.
-- Rassemblement de centaines d'étudiants au sein de l'école.
-
-### Projets
+**Competitor** in multiple data science competitions. Amongst the best students in the Télécom Paris internal challenge *(final grade [/20] 16.1, max 17.6, av 13.6)* which consisted in determining if two images were of the same person. Participate in some Kaggle competitions, mostly *sandbox* : Sales forecasting *(Time-Series)*, MNIST exploration, Disaster Tweets *(NLP)*.
 
 `2020`
-__Analyse et mise en oeuvre d'attaque sur le CMS Wordpress__
-- Exploitation de failles et vulnérabilités (principalement XSS et CRSF).
+**Developer** of a project on predicting outcomes of competitive *Counter-Strike* games, including a theoretical approach (probabilistic and gambling theory), an implementation using online feature aggregation and predicting models as well as simulations to validate winning strategies. (*Whole project on my github*)
 
-`2020`
-__Challenges de machine learning__
-- Quelques compétitions Kaggle pour la connaissance uniquement.
 
-`2019`
-__Création d’un site d’e-commerce__ sur mon temps libre, avec les outils WordPress et WooCommerce.
+### Leadership
+
+`2019-2020`
+__V.P. of the students sports office__ an associaton with 400 contributors , 13 members and more than 80 *k€* of budget.
+- Management of the whole sport life of the school (infrastructures, coachs, equipment).
+
+`2019-2020`
+__President of the cheese club *Téléfrom*__
+- Events around cheese, local cheese tasting, *raclette*, *fondue*.
+- Gathering of hundreds of students within the school.
+
 
 
 <!-- ### Footer
