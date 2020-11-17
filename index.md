@@ -22,23 +22,21 @@ Applied mathematics and Data Sciences student Telecom Paris/ Ecole Polytechnique
 `2020-2021`
 __Ecole Polytechnique, Paris (Palaiseau)__ *(Most prestigious engineering school in France)* Master of science in applied mathematics.
 
-**Relevant courses** : Optimization for Data Science, Systems for big data analytics, Statistical learning theory, Deep learning, High dimensional statistics, Reinforcement Learning, Bootstrap and resampling methods, Computer vision.
+ - *Relevant courses* : Optimization for Data Science, Systems for big data analytics, Statistical learning theory, Deep learning, High dimensional statistics, Reinforcement Learning, Bootstrap and resampling methods, Computer vision.
 
 `2018-2021`
-__Télécom Paris, Paris (Palaiseau)__ *(2$^{nd}$ best engineering school in France - T.H.E., 2020)* Graduate engineering school, majoring in computer science and applied mathematics. *(GPA 3.9/4)*
+__Télécom Paris, Paris (Palaiseau)__ *(2<sup>nd</sup> best engineering school in France - T.H.E., 2020)* Graduate engineering school, majoring in computer science and applied mathematics. *(GPA 3.9/4)*
 
-**Relevant courses** : Statistics, Optimization theory, Linear models, Non-Parametric Estimation, Machine learning, NLP, Graph mining.
+ - *Relevant courses* : Statistics, Optimization theory, Linear models, Non-Parametric Estimation, Machine learning, NLP, Graph mining.
 
 
 `2016 - 2018`
 __Lycée Jean-Baptiste Say, Paris__ Classes préparatoires
-
-Two-year undergraduate intensive course in mathematics and physics to prepare for nationwide competitive examination.
+- Two-year undergraduate intensive course in mathematics and physics to prepare for nationwide competitive examination.
 
 `2013-2016`
 __Lycée Albert Camus, Fréjus__ High school
-
-Scientific baccalaureat with highest honours.
+ - Scientific baccalaureat with highest honours.
 
 
 ## Experiences and projects
