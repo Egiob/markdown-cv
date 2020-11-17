@@ -1,123 +1,75 @@
 ---
 layout: cv
-title: CV de Raphaël Boige
+title: Raphaël Boige resume
 ---
-
+`French, 21 years old`
 # Raphaël Boige
 
-Étudiant en science des données à Télécom Paris.
 
-**Stage de fin d'étude en Data Science**
+French master student in applied mathematics and Data Science at Telecom Paris and Ecole Polytechnique
 
-### ![](photo_id.jpg)
+**I am looking for an in interniship in Data Science to complete my Master of Science.**
+
+
 
 <div id="webaddress">
-<a href="raphael.boige@telecom-paris.fr">raphael.boige@telecom-paris.fr</a>
-| <a href="https://www.linkedin.com/in/raphaelboige/">https://www.linkedin.com/in/raphaelboige/</a>
+| <a href="mailto:raphael.boige@telecom-paris.fr">raphael.boige@ip-paris.fr</a>
+<br>
+| <a href="https://www.linkedin.com/in/raphaelboige/">https://www.linkedin.com/in/raphaelboige/</a> <br>| <a href="https://github.com/Egiob">https://github.com/Egiob</a>
 </div>
 
+## Education
 
+`2020-2021`
+__Ecole Polytechnique, Paris (Palaiseau)__ *(Most prestigious engineering school in France)* Master of science in applied mathematics.
 
-
-## Actuellement
-
-Master 2 IPP Data Science (Ecole Polytechnique, Télécom Paris, ENSTA, ENSAE ...)
-
-### Spécialtés
-**Data Science** : machine learning, mining of large datasets, graph mining, bases de données, optimisation, statistiques avancées, text mining.
-
-**Cybersécurité** : infrastructures Internet, architecture et protocoles réseaux,	services de sécurité, mécanismes de cryptographie, contrôle d'accès, méthodes et pratiques de hacking,
-
-
-
-## Formation
+ - *Relevant courses* : Optimization for Data Science, Systems for big data analytics, Statistical learning theory, Deep learning, High dimensional statistics, Reinforcement Learning, Bootstrap and resampling methods, Computer vision.
 
 `2018-2021`
-__Télécom Paris, Paris puis Palaiseau__
-- Etudiant ingénieur promo 2021
+__Télécom Paris, Paris (Palaiseau)__ *(2<sup>nd</sup> best engineering school in France - T.H.E., 2020)* Graduate engineering school, majoring in computer science and applied mathematics. *(GPA 3.9/4)*
+
+ - *Relevant courses* : Statistics, Optimization theory, Linear models, Non-Parametric Estimation, Machine learning, NLP, Graph mining.
+
 
 `2016 - 2018`
-
-__Lycée Jean-Baptiste Say, Paris__
-- CPGE PTSI/PT*
+__Lycée Jean-Baptiste Say, Paris__ Classes préparatoires
+- Two-year undergraduate intensive course in mathematics and physics to prepare for nationwide competitive examination.
 
 `2013-2016`
-__Lycée Albert Camus, Fréjus__
+__Lycée Albert Camus, Fréjus__ High school
+ - Scientific baccalaureat with highest honours.
 
-- Bac S mention très bien
 
-
-## Expériences
+## Experiences and projects
 
 `2020`
-__Co-auteur__ du livre *Intégrer l'X ou l'école d'ingénieurs de tes rêves avec les Sherpas*. Paru en Juin 2020 aux editions Vuibert.
-
-
-
-`2019`
-__Stage d'été de 6 semaines dans la startup Les Sherpas__
-- Développement d’outils de scrapping en langage Python (scrapy, Selenium).
-- Rédaction d’articles web optimisés sémantiquement (SEO).
-
-
-`2018-2020`
-__Professeur particulier__
-- Cours de maths, physique et sciences de l'ingénieur niveaux lycée et CPGE.
-
-`2017-2018`
-__Travail d’été en boulangerie__
- - Cuisson du pain, service au client, gestion de la caisse.
-
-### Vie associative
+__Co-author__ of the book *Intégrer l'X ou l'école d'ingénieurs de tes rêves avec les Sherpas*, published in June 2020 by Vuibert, a major publishing company in France. The book is a guide for undergraduate students to suceed at the nationwide competitive exams for engineering schools.
 
 `2019-2020`
-__Vice-Président du Bureau des Sports de Télécom Paris__ une association loi 1901 avec 400 cotisants, 13 membres et plus de 80000€ de budget.
-- Gestion de la vie sportive de l’école (infrastructures, matériel, coachs, tournois sportifs).
-
-`2019-2020`
-__Président de l'association Téléfrom__
-- Evenements et dégustations centrés autour du fromage de terroir.
-- Rassemblement de centaines d'étudiants au sein de l'école.
-
-### Projets
+__Challenger__ in multiple data science competitions. Amongst the best students in the Télécom Paris internal challenge *(final grade [/20] 16.1, max 17.6, av 13.6)* which consisted in determining if two images were of the same person, based on precomputed features. I also participated in some Kaggle competitions, mostly *sandbox* : Sales forecasting *(Time-Series)*, MNIST exploration, Disaster Tweets *(NLP)*.
 
 `2020`
-__Analyse et mise en oeuvre d'attaque sur le CMS Wordpress__
-- Exploitation de failles et vulnérabilités (principalement XSS et CRSF).
-
-`2020`
-__Challenges de machine learning__
-- Quelques compétitions Kaggle pour la connaissance uniquement.
+__Developer__ of a project on predicting outcomes of competitive *Counter-Strike* games, including a theoretical approach (probabilistic and gambling theory), an implementation using online feature aggregation and predicting models as well as simulations to validate winning strategies. (*Whole project on my github*)
 
 `2019`
-__Création d’un site d’e-commerce__ sur mon temps libre, avec les outils WordPress et WooCommerce.
+__Intern and redactor__ at Les Sherpas, a startup in the educative field. In charge of building automation tools for lead generation, such as scrapping tools (Python - Selenium). I also wrote several articles of advices and methods for students willing to follow a way similar to mine, based on my own background and education.
+
+### Leadership
+
+`2019-2020`
+__Vice-President of the students sports office__ an associaton with 400 contributors , 13 members and more than 80 *k€* of budget.
+- Management of the whole sport life of the school (infrastructures, coachs, equipments).
+
+`2019-2020`
+__President of the cheese club *Téléfrom*__
+- Events around cheese, local cheese tasting, *raclette*, *fondue*.
+- Gathering of hundreds of students within the school.
 
 
-<!-- ### Footer
-Last updated: May 2013 -->
 
-## Compétences techniques
+### Skills & Interests
 
-__Python pour le machine learning :__ scikit-learn, Tensorflow, Keras, natural languge processing toolkit (NLTK).
+__Programming languages:__ Python (pandas, scikit-learn, keras, pytorch). A bit of Java, C, C++, JS, R.
+__Databases:__ MySQL and SQLite.
 
-__Bases de données :__ MySQL et SQLite
-
-__Développement Web :__ bases solides en HTML, CSS, PHP et JS coté client et coté serveur (NodeJS, socket.io).
-
-__Programmation :__ niveau avancé en Python, bases en C, C++ et Java.
-
-### Langages
-
-__Français :__ langue natale.
-
-__Anglais :__ lu et parlé couramment, niveau C1.
-
-__Arabe littérale :__ vocabulaire sommaire, lecture et écriture.
-
-__Italien :__ bases.
-
-## Centres d'intérets
-
-__Musique :__ guitare et ukulele.
-
-__Tennis :__  quelques compétitions universitaires.
+__Languages__ : french native speaker, working profiency in english.
