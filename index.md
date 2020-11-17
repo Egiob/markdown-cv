@@ -13,7 +13,7 @@ Applied mathematics and Data Sciences student Telecom Paris/ Ecole Polytechnique
 
 <div id="webaddress">
 <a href="raphael.boige@telecom-paris.fr">raphael.boige@telecom-paris.fr</a>
-| <a href="https://www.linkedin.com/in/raphaelboige/">https://www.linkedin.com/in/raphaelboige/</a>
+| <a href="https://www.linkedin.com/in/raphaelboige/">https://www.linkedin.com/in/raphaelboige/</a> | <a href="https://github.com/Egiob">https://github.com/Egiob</a>
 </div>
 
 
