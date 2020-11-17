@@ -5,6 +5,7 @@ title: Raphaël Boige resume
 
 # Raphaël Boige
 
+`French, 21 years old`
 French master student in applied mathematics and Data Science at Telecom Paris and Ecole Polytechnique
 
 **I am looking for an in interniship in Data Science to complete my Master of Science.**
@@ -13,7 +14,9 @@ French master student in applied mathematics and Data Science at Telecom Paris a
 
 <div id="webaddress">
 | <a href="raphael.boige@telecom-paris.fr">raphael.boige@telecom-paris.fr</a>
-| <a href="https://www.linkedin.com/in/raphaelboige/">https://www.linkedin.com/in/raphaelboige/</a>| <a href="https://github.com/Egiob">https://github.com/Egiob</a>
+
+| <a href="https://www.linkedin.com/in/raphaelboige/">https://www.linkedin.com/in/raphaelboige/</a>
+| <a href="https://github.com/Egiob">https://github.com/Egiob</a>
 </div>
 
 
@@ -70,3 +73,5 @@ __President of the cheese club *Téléfrom*__
 
 __Programming languages:__ Python (pandas, scikit-learn, keras, pytorch). A bit of Java, C, C++, JS, R.
 __Databases:__ MySQL and SQLite.
+
+__Languages__ : french native speaker, working profiency in english.
