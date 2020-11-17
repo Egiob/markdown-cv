@@ -13,7 +13,7 @@ French master student in applied mathematics and Data Science at Telecom Paris a
 
 
 <div id="webaddress">
-| <a href="mailto:raphael.boige@telecom-paris.fr">raphael.boige@ip-paris.fr</a>
+| <a href="mailto:raphael.boige@ip-paris.fr">raphael.boige@ip-paris.fr</a>
 <br>
 | <a href="https://www.linkedin.com/in/raphaelboige/">https://www.linkedin.com/in/raphaelboige/</a> <br>| <a href="https://github.com/Egiob">https://github.com/Egiob</a>
 </div>
