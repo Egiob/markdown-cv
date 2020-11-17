@@ -47,7 +47,7 @@ __Lycée Albert Camus, Fréjus__ High school
 __Co-author__ of the book *Intégrer l'X ou l'école d'ingénieurs de tes rêves avec les Sherpas*, published in June 2020 by Vuibert, a major publishing company in France. The book is a guide for undergraduate students to suceed at the nationwide competitive exams for engineering schools.
 
 `2019-2020`
-__Competitor__ in multiple data science competitions. Amongst the best students in the Télécom Paris internal challenge *(final grade [/20] 16.1, max 17.6, av 13.6)* which consisted in determining if two images were of the same person. Participate in some Kaggle competitions, mostly *sandbox* : Sales forecasting *(Time-Series)*, MNIST exploration, Disaster Tweets *(NLP)*.
+__Challenger__ in multiple data science competitions. Amongst the best students in the Télécom Paris internal challenge *(final grade [/20] 16.1, max 17.6, av 13.6)* which consisted in determining if two images were of the same person, based on precomputed features. I also participated in some Kaggle competitions, mostly *sandbox* : Sales forecasting *(Time-Series)*, MNIST exploration, Disaster Tweets *(NLP)*.
 
 `2020`
 __Developer__ of a project on predicting outcomes of competitive *Counter-Strike* games, including a theoretical approach (probabilistic and gambling theory), an implementation using online feature aggregation and predicting models as well as simulations to validate winning strategies. (*Whole project on my github*)
