@@ -5,9 +5,9 @@ title: Raphaël Boige resume
 
 # Raphaël Boige
 
-Applied mathematics and Data Sciences student Telecom Paris/ Ecole Polytechnique
+French master student in applied mathematics and Data Science at Telecom Paris and Ecole Polytechnique
 
-**I am looking for an in interniship in Data Science to complete my Master of Science**
+**I am looking for an in interniship in Data Science to complete my Master of Science.**
 
 
 
@@ -54,8 +54,8 @@ __Co-author__ of the book *Intégrer l'X ou l'école d'ingénieurs de tes rêves
 ### Leadership
 
 `2019-2020`
-__V.P. of the students sports office__ an associaton with 400 contributors , 13 members and more than 80 *k€* of budget.
-- Management of the whole sport life of the school (infrastructures, coachs, equipment).
+__Vice-President of the students sports office__ an associaton with 400 contributors , 13 members and more than 80 *k€* of budget.
+- Management of the whole sport life of the school (infrastructures, coachs, equipments).
 
 `2019-2020`
 __President of the cheese club *Téléfrom*__
@@ -64,31 +64,7 @@ __President of the cheese club *Téléfrom*__
 
 
 
-<!-- ### Footer
-Last updated: May 2013 -->
+### Skills & Interests
 
-## Compétences techniques
-
-__Python pour le machine learning :__ scikit-learn, Tensorflow, Keras, natural languge processing toolkit (NLTK).
-
-__Bases de données :__ MySQL et SQLite
-
-__Développement Web :__ bases solides en HTML, CSS, PHP et JS coté client et coté serveur (NodeJS, socket.io).
-
-__Programmation :__ niveau avancé en Python, bases en C, C++ et Java.
-
-### Langages
-
-__Français :__ langue natale.
-
-__Anglais :__ lu et parlé couramment, niveau C1.
-
-__Arabe littérale :__ vocabulaire sommaire, lecture et écriture.
-
-__Italien :__ bases.
-
-## Centres d'intérets
-
-__Musique :__ guitare et ukulele.
-
-__Tennis :__  quelques compétitions universitaires.
+__Programming languages:__ Python (pandas, scikit-learn, keras, pytorch). A bit of Java, C, C++, JS, R.
+__Databases:__ MySQL and SQLite.
