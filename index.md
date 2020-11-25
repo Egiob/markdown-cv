@@ -6,9 +6,9 @@ title: Raphaël Boige resume
 # Raphaël Boige
 
 
-French master student in applied mathematics and Data Science at Telecom Paris and Ecole Polytechnique
+Etudiant en mathématiques appliquées au Master 2 Data Science de l'Institut Polytechnique de Paris (Ecole Polytechnique, Télécom Paris, ENSAE ...)
 
-**I am looking for an in interniship in Data Science to complete my Master of Science.**
+**Je suis à la recherche d'un stage de fin d'étude dans le domaine de la *data science* et du *machine learning*.**
 
 
 
@@ -18,61 +18,65 @@ French master student in applied mathematics and Data Science at Telecom Paris a
 | <a href="https://www.linkedin.com/in/raphaelboige/">https://www.linkedin.com/in/raphaelboige/</a> <br>| <a href="https://github.com/Egiob">https://github.com/Egiob</a>
 </div>
 
-## Education
+## Parcours scolaire
 
 `2020-2021`
-__Ecole Polytechnique, Paris (Palaiseau)__ *(Most prestigious engineering school in France)* Master of science in applied mathematics.
+__Ecole Polytechnique, Paris (Palaiseau)__  Master 2 data sciences, mathématiques appliquées et statistiques.
 
- - *Relevant courses* : Optimization for Data Science, Systems for big data analytics, Statistical learning theory, Deep learning, High dimensional statistics, Reinforcement Learning, Bootstrap and resampling methods, Computer vision.
+ - Cours pertinents : Optimization pour la *Data Science*, *Systems for big data analytics*, Théorie de l'apprentissage statistique, *Deep learning*, Statistiques en grande dimension, *Reinforcement Learning*, *Bootstrap* et méthodes de réechantillonage, *Computer vision*.
 
 `2018-2021`
-__Télécom Paris, Paris (Palaiseau)__ *(2<sup>nd</sup> best engineering school in France - T.H.E., 2020)* Graduate engineering school, majoring in computer science and applied mathematics. *(GPA 3.9/4)*
+__Télécom Paris, Paris (Palaiseau)__ Meilleure école d'ingénieur dans le domaine du numérique, spécialisation en mathématiques appliquées et en data science. *(GPA 3.9/4)*
 
- - *Relevant courses* : Statistics, Optimization theory, Linear models, Non-Parametric Estimation, Machine learning, NLP, Graph mining.
+ - *Cours pertinents* : Statistiques, Optimisation, Modèles linéaires, Estimation non-paramétrique, *Machine learning*, *NLP*, *Graph mining*.
 
 
 `2016 - 2018`
 __Lycée Jean-Baptiste Say, Paris__ Classes préparatoires
-- Two-year undergraduate intensive course in mathematics and physics to prepare for nationwide competitive examination.
+
 
 `2013-2016`
-__Lycée Albert Camus, Fréjus__ High school
- - Scientific baccalaureat with highest honours.
+__Lycée Albert Camus, Fréjus__ Lycée
+ - Bac S avec mention très bien.
 
-
-## Experiences and projects
+## Experiences et projets
 
 `2020`
-__Co-author__ of the book *Intégrer l'X ou l'école d'ingénieurs de tes rêves avec les Sherpas*, published in June 2020 by Vuibert, a major publishing company in France. The book is a guide for undergraduate students to suceed at the nationwide competitive exams for engineering schools.
+__Co-auteur__ du livre *Intégrer l'X ou l'école d'ingénieurs de tes rêves avec les Sherpas*, publié en Juin 2020 chez *Vuibert* (Albin Michel).
+- Le livre est un guide à destination des élèves de classes préparatoires. Il contient un ensemble de méthodes et d'astuces, testées et approuvées par ce qui ont le mieux réussi aux concours.
 <br>
 
 `2019-2020`
-__Challenger__ in multiple data science competitions. Amongst the best students in the Télécom Paris internal challenge *(final grade [/20] 16.1, max 17.6, av 13.6)* which consisted in determining if two images were of the same person, based on precomputed features. I also participated in some Kaggle competitions, mostly *sandbox* : Sales forecasting *(Time-Series)*, MNIST exploration, Disaster Tweets *(NLP)*.
+__Challenger__ dans plusieurs competitions de machine learning.
+- Parmi les meilleurs étudiants dans le concours interne de Télécom Paris *(note finale [/20] 16.1, max 17.6, moy 13.6)*. Le challenge consistait à determiner si deux images étaient étaient de la même personne, en se basant sur un ensemble de *features* calculées à l'avance.
+- J'ai aussi participé à plusieurs compétitions Kaggle, des *sandbox* pour la plupart : Sales forecasting *(Séries temporelles*, MNIST exploration, Disaster Tweets *(NLP)*.
 <br>
 
 `2020`
-__Developer__ of a project on predicting outcomes of competitive *Counter-Strike* games, including a theoretical approach (probabilistic and gambling theory), an implementation using online feature aggregation and predicting models as well as simulations to validate winning strategies. (*Whole project on my github*).
+__Developer__ d'un projet personnel qui vise à prédire l'issue de matchs compétitifs du jeu vidéo *Counter-Strike*.
+- Le projet inclut une approche théorique (probabilités et paris), une implementation avec aggregation des *features* et modèles de prédiction "en-ligne" et également différentes simulations pour valider une stratégie gagnante. (*Projet complet sur mon github*).
 <br>
 
 `2019`
-__Intern and redactor__ at Les Sherpas, a startup in the educative field. In charge of building automation tools for lead generation, such as scrapping tools (Python - Selenium). I also wrote several articles of advices and methods for students willing to follow a way similar to mine, based on my own background and education.
+__Stagiaire et rédacteur__ chez Les Sherpas, une startup dans le milieu éducatif.
+- En charge de la création d'outils de génération de *leads*, outils de scrapping (Python - Selenium) et outils d'automation. J'ai aussi écrit plusieurs articles de blog sur les classes préparatoires en me basant sur ma propre expérience et mon parcours.
 
-### Leadership
-
-`2019-2020`
-__Vice-President of the students sports office__ an associaton with 400 contributors, 13 members and more than 80 k€ of budget.
-- Management of the whole sport life of the school (infrastructures, coachs, equipments).
+### Engagement associatif
 
 `2019-2020`
-__President of the cheese club *Téléfrom*__
-- Events around cheese, local cheese tasting, *raclette*, *fondue*.
-- Gathering of hundreds of students within the school.
+__Vice-President du bureau des sports__ une associaton avec 400 cotisants, 13 membres and de 80 k€ de budget.
+- Gestion de toute la vie sportive de l'école (infrastructures, coachs, equipements).
+
+`2019-2020`
+__President du club fromage *Téléfrom*__ Coordination d'une équipe d'une dizaine de personnes, dans un esprit bon enfant.
+- Evenements autour du fromage, dégustation de fromage local, *raclette*, *fondue*.
+- Rassemblement de plusieurs centaines d'étudiants au sein de l'école.
 
 
 
-### Skills & Interests
+### Compétences et intérets
 
-__Programming languages:__ Python (pandas, scikit-learn, keras, pytorch). A bit of Java, C, C++, JS, R.
-__Databases:__ MySQL and SQLite.
+__Langages de programmation:__ Python (pandas, scikit-learn, keras, pytorch). Des bases de Java, C, C++, JS, R.
+__Databases:__ MySQL et SQLite.
 
-__Languages__ : french native speaker, working profiency in english.
+__Langages__ : français langue natale, maîtrise profesionnelle de l'anglais.
