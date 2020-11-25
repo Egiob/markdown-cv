@@ -2,7 +2,7 @@
 layout: cv
 title: Raphaël Boige resume
 ---
-`French, 21 years old`
+
 # Raphaël Boige
 
 
@@ -10,7 +10,7 @@ Etudiant en mathématiques appliquées au Master 2 Data Science de l'Institut Po
 
 **Je suis à la recherche d'un stage de fin d'étude dans le domaine de la *data science* et du *machine learning*.**
 
-
+### ![](photo_id.jpg)
 
 <div id="webaddress">
 | <a href="mailto:raphael.boige@ip-paris.fr">raphael.boige@ip-paris.fr</a>
