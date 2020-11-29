@@ -26,9 +26,9 @@ __Ecole Polytechnique, Paris (Palaiseau)__  Master 2 data sciences, mathématiqu
  - Cours pertinents : Optimization pour la *Data Science*, *Systems for big data analytics*, Théorie de l'apprentissage statistique, *Deep learning*, Statistiques en grande dimension, *Reinforcement Learning*, *Bootstrap* et méthodes de réechantillonage, *Computer vision*.
 
 `2018-2021`
-__Télécom Paris, Paris (Palaiseau)__ Meilleure école d'ingénieur dans le domaine du numérique, spécialisation en mathématiques appliquées et en data science. *(GPA 3.9/4)*
+__Télécom Paris, Paris (Palaiseau)__ Ecole d'ingénieur spécialisée dans le domaine du numérique, majeurs en mathématiques appliquées et en data science. *(GPA 3.9/4)*
 
- - *Cours pertinents* : Statistiques, Optimisation, Modèles linéaires, Estimation non-paramétrique, *Machine learning*, *NLP*, *Graph mining*.
+ - Cours pertinents : Statistiques, Optimisation, Modèles linéaires, Estimation non-paramétrique, *Machine learning*, *NLP*, *Graph mining*.
 
 
 `2016 - 2018`
@@ -53,7 +53,7 @@ __Challenger__ dans plusieurs competitions de machine learning.
 <br>
 
 `2020`
-__Developer__ d'un projet personnel qui vise à prédire l'issue de matchs compétitifs du jeu vidéo *Counter-Strike*.
+__Developeur__ d'un projet personnel qui vise à prédire l'issue de matchs compétitifs du jeu vidéo *Counter-Strike*.
 - Le projet inclut une approche théorique (probabilités et paris), une implementation avec aggregation des *features* et modèles de prédiction "en-ligne" et également différentes simulations pour valider une stratégie gagnante. (*Projet complet sur mon github*).
 <br>
 
