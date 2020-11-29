@@ -49,7 +49,7 @@ __Co-auteur__ du livre *Intégrer l'X ou l'école d'ingénieurs de tes rêves av
 `2019-2020`
 __Challenger__ dans plusieurs competitions de machine learning.
 - Parmi les meilleurs étudiants dans le concours interne de Télécom Paris *(note finale [/20] 16.1, max 17.6, moy 13.6)*. Le challenge consistait à determiner si deux images étaient étaient de la même personne, en se basant sur un ensemble de *features* calculées à l'avance.
-- J'ai aussi participé à plusieurs compétitions Kaggle, des *sandbox* pour la plupart : Sales forecasting *(Séries temporelles*, MNIST exploration, Disaster Tweets *(NLP)*.
+- J'ai aussi participé à plusieurs compétitions Kaggle, des *sandbox* pour la plupart : Sales forecasting *(Séries temporelles)*, MNIST exploration, Disaster Tweets *(NLP)*.
 <br>
 
 `2020`
