@@ -13,7 +13,7 @@ Etudiant en mathématiques appliquées au Master 2 Data Science de l'Institut Po
 ### ![](photo_id.jpg)
 
 <div id="webaddress">
-| <a href="mailto:raphael.boige@polytechnique.edu">raphael.boige@ip-paris.fr</a>
+| <a href="mailto:raphael.boige@polytechnique.edu">raphael.boige@polytechnique.edu</a>
 <br>
 | <a href="https://www.linkedin.com/in/raphaelboige/">https://www.linkedin.com/in/raphaelboige/</a> <br>| <a href="https://github.com/Egiob">https://github.com/Egiob</a>
 </div>
