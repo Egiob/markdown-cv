@@ -6,7 +6,7 @@ title: Raphaël Boige resume
 # Raphaël Boige
 
 Research intern in Reinforcement Learing at Laboratoire Cedric (CNAM).
-
+### ![](photo_id.jpg)
 <div id="webaddress">
 | <a href="mailto:raphael.boige@polytechnique.edu">raphael.boige@polytechnique.edu</a>
 <br>
