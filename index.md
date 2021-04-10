@@ -28,11 +28,11 @@ __Télécom Paris, Paris (Palaiseau)__  Graduate engineering school, majoring in
 
 `2016 - 2018`
 __Lycée Jean-Baptiste Say, Paris__ Classes préparatoires
-- Two-year undergraduate intensive course in mathematics and physics to prepare for nationwide competitive examination.
+
 
 `2013-2016`
-__Lycée Albert Camus, Fréjus__ High school
- - Scientific baccalaureat with highest honours.
+__Lycée Albert Camus, Fréjus__ Baccalaureate with highest honours
+ 
 
 ## Experiences
 
@@ -43,13 +43,16 @@ __Research Intern__ at Laboratoire Cedric (CNAM). I work on Reinforcement Learni
 __Co-author__ of the book *Intégrer l'X ou l'école d'ingénieurs de tes rêves avec les Sherpas*, published in June 2020 by Vuibert, a major publishing company in France. The book is a guide for undergraduate students to suceed at the nationwide competitive exams for engineering schools.
 <br>
 
-### Projects
-`2019-2020`
-__Challenger__ in multiple data science competitions. Amongst the best students in the Télécom Paris internal challenge *(final grade [/20] 16.1, max 17.6, av 13.6)* which consisted in determining if two images were of the same person, based on precomputed features. I also participated in some Kaggle competitions, mostly *sandbox* : Sales forecasting *(Time-Series)*, MNIST exploration, Disaster Tweets *(NLP)*.
-<br>
+## Projects
+
+`2021`
+__Competitor__ in the 2021 edition of Hackaton Hi!Paris. Optimization of the energy consumption of a building with solar panels using a smart grid controller. We leveraged reinforcement learning methods (DQN, A2C) as well as heuristics (rule based strategy) to minimize the cost and the environemental impact of our building.
+
+`2021`
+__Developer__ of a project on pretraining parameters of a Deep Neural Network using a Restricted Boltzmann Machine. Implementation from scratch in Python of a RBM structure trained with the CD-1 algorithm using Gibbs sampling. The comparative advantage of such pretrain was tested on a classic DNN model using the MNIST dataset.
 
 `2020`
-__Developer__ of a project on predicting outcomes of competitive *Counter-Strike* games, including a theoretical approach (probabilistic and gambling theory), an implementation using different elo-based computed features as well as simulations to validate winning strategies. (*Whole project on my github*).
+__Maintainer__ of an experiment on predicting outcomes of competitive *Counter-Strike* games, including a theoretical approach (probabilistic and gambling theory), an implementation using different elo-based computed features as well as simulations to validate winning strategies. (*Whole project on my github*).
 <br>
 
 
