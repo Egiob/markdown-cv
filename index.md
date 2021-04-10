@@ -59,7 +59,7 @@ __Maintainer__ of an experiment on predicting outcomes of competitive *Counter-S
 ### Leadership
 
 `2019-2020`
-__Vice-President of the students sports office__ an associaton with 400 contributors, 13 members and more than 80 k€ of budget.
+__Vice-President of the students sports office__ an association with 400 contributors, 13 members and more than 80 k€ of budget.
 - Management of the whole sport life of the school (infrastructures, coachs, equipments).
 
 `2019-2020`
