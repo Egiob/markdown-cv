@@ -2,13 +2,18 @@
 layout: cv
 title: Raphaël Boige resume
 ---
-`French, 22 years old`
+`French, 21 years old`
 # Raphaël Boige
 
-Research intern in Reinforcement Learing at Laboratoire Cedric (CNAM).
+
+French master student in applied mathematics and Data Science at Telecom Paris and Ecole Polytechnique
+
+**I am looking for an in interniship in Data Science to complete my Master of Science.**
+
+
 
 <div id="webaddress">
-| <a href="mailto:raphael.boige@polytechnique.edu">raphael.boige@polytechnique.edu</a>
+| <a href="mailto:raphael.boige@ip-paris.fr">raphael.boige@ip-paris.fr</a>
 <br>
 | <a href="https://www.linkedin.com/in/raphaelboige/">https://www.linkedin.com/in/raphaelboige/</a> <br>| <a href="https://github.com/Egiob">https://github.com/Egiob</a>
 </div>
@@ -18,7 +23,7 @@ Research intern in Reinforcement Learing at Laboratoire Cedric (CNAM).
 `2020-2021`
 __Ecole Polytechnique, Paris (Palaiseau)__ *(Most prestigious engineering school in France)* Master of science in applied mathematics.
 
- - *Relevant courses* : Optimization, Statistical learning theory, Deep learning and Generative models, High dimensional statistics, Stochastic approximation and Reinforcement learning, Bootstrap and resampling methods, Computer vision.
+ - *Relevant courses* : Optimization for Data Science, Systems for big data analytics, Statistical learning theory, Deep learning, High dimensional statistics, Reinforcement Learning, Bootstrap and resampling methods, Computer vision.
 
 `2018-2021`
 __Télécom Paris, Paris (Palaiseau)__ *(2<sup>nd</sup> best engineering school in France - T.H.E., 2020)* Graduate engineering school, majoring in computer science and applied mathematics. *(GPA 3.9/4)*
@@ -36,9 +41,6 @@ __Lycée Albert Camus, Fréjus__ High school
 
 ## Experiences and projects
 
-`2021`
-__Research Intern__ at Laboratoire Cedric (CNAM). I work on Reinforcement Learning, the main topic of research is to generate and quantify diversified behaviours of agents in a given environnement. The search of such sub-optimal policies is conducted on video games running on the Unity-3D engine.
-
 `2020`
 __Co-author__ of the book *Intégrer l'X ou l'école d'ingénieurs de tes rêves avec les Sherpas*, published in June 2020 by Vuibert, a major publishing company in France. The book is a guide for undergraduate students to suceed at the nationwide competitive exams for engineering schools.
 <br>
@@ -48,7 +50,7 @@ __Challenger__ in multiple data science competitions. Amongst the best students 
 <br>
 
 `2020`
-__Developer__ of a project on predicting outcomes of competitive *Counter-Strike* games, including a theoretical approach (probabilistic and gambling theory), an implementation using different elo-based computed features as well as simulations to validate winning strategies. (*Whole project on my github*).
+__Developer__ of a project on predicting outcomes of competitive *Counter-Strike* games, including a theoretical approach (probabilistic and gambling theory), an implementation using online feature aggregation and predicting models as well as simulations to validate winning strategies. (*Whole project on my github*).
 <br>
 
 `2019`
