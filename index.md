@@ -52,7 +52,7 @@ __Competitor__ in the 2021 edition of Hackaton Hi!Paris. Optimization of the ene
 __Developer__ of a project on pretraining parameters of a Deep Neural Network using a Restricted Boltzmann Machine. Implementation from scratch in Python of a RBM structure trained with the CD-1 algorithm using Gibbs sampling. The comparative advantage of such pretrain was tested on a classic DNN model using the MNIST dataset.
 
 `2020`
-__Maintainer__ of an experiment on predicting outcomes of competitive *Counter-Strike* games, including a theoretical approach (probabilistic and gambling theory), an implementation using different elo-based computed features as well as simulations to validate winning strategies. (*Whole project on my github*).
+__Maintainer__ of an experiment on predicting outcomes of competitive *Counter-Strike* games, including a theoretical approach (probabilistic and gambling theory), an implementation using different elo-based computed features as well as simulations to validate winning strategies.
 <br>
 
 
