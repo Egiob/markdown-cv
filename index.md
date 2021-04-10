@@ -16,12 +16,12 @@ Research intern in Reinforcement Learing at Laboratoire Cedric (CNAM).
 ## Education
 
 `2020-2021`
-__Ecole Polytechnique, Paris (Palaiseau)__ *(Most prestigious engineering school in France)* Master of science in applied mathematics.
+__Ecole Polytechnique, Paris (Palaiseau)__ Master of science in applied mathematics.
 
  - *Relevant courses* : Optimization, Statistical learning theory, Deep learning and Generative models, High dimensional statistics, Stochastic approximation and Reinforcement learning, Bootstrap and resampling methods, Computer vision.
 
 `2018-2021`
-__Télécom Paris, Paris (Palaiseau)__ *(2<sup>nd</sup> best engineering school in France - T.H.E., 2020)* Graduate engineering school, majoring in computer science and applied mathematics. *(GPA 3.9/4)*
+__Télécom Paris, Paris (Palaiseau)__  Graduate engineering school, majoring in computer science and applied mathematics. *(GPA 3.9/4)*
 
  - *Relevant courses* : Statistics, Optimization theory, Linear models, Non-Parametric Estimation, Machine learning, NLP, Graph mining.
 
@@ -34,7 +34,7 @@ __Lycée Jean-Baptiste Say, Paris__ Classes préparatoires
 __Lycée Albert Camus, Fréjus__ High school
  - Scientific baccalaureat with highest honours.
 
-## Experiences and projects
+## Experiences
 
 `2021`
 __Research Intern__ at Laboratoire Cedric (CNAM). I work on Reinforcement Learning, the main topic of research is to generate and quantify diversified behaviours of agents in a given environnement. The search of such sub-optimal policies is conducted on video games running on the Unity-3D engine.
@@ -43,6 +43,7 @@ __Research Intern__ at Laboratoire Cedric (CNAM). I work on Reinforcement Learni
 __Co-author__ of the book *Intégrer l'X ou l'école d'ingénieurs de tes rêves avec les Sherpas*, published in June 2020 by Vuibert, a major publishing company in France. The book is a guide for undergraduate students to suceed at the nationwide competitive exams for engineering schools.
 <br>
 
+### Projects
 `2019-2020`
 __Challenger__ in multiple data science competitions. Amongst the best students in the Télécom Paris internal challenge *(final grade [/20] 16.1, max 17.6, av 13.6)* which consisted in determining if two images were of the same person, based on precomputed features. I also participated in some Kaggle competitions, mostly *sandbox* : Sales forecasting *(Time-Series)*, MNIST exploration, Disaster Tweets *(NLP)*.
 <br>
@@ -51,8 +52,6 @@ __Challenger__ in multiple data science competitions. Amongst the best students 
 __Developer__ of a project on predicting outcomes of competitive *Counter-Strike* games, including a theoretical approach (probabilistic and gambling theory), an implementation using different elo-based computed features as well as simulations to validate winning strategies. (*Whole project on my github*).
 <br>
 
-`2019`
-__Intern and redactor__ at Les Sherpas, a startup in the educative field. In charge of building automation tools for lead generation, such as scrapping tools (Python - Selenium). I also wrote several articles of advices and methods for students willing to follow a way similar to mine, based on my own background and education.
 
 ### Leadership
 
@@ -72,4 +71,4 @@ __President of the cheese club *Téléfrom*__
 __Programming languages:__ Python (pandas, scikit-learn, keras, pytorch). A bit of Java, C, C++, JS, R.
 __Databases:__ MySQL and SQLite.
 
-__Languages__ : french native speaker, working profiency in english.
+__Languages__ : French native speaker, working profiency in English (C1).
