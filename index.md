@@ -76,5 +76,6 @@ __President of the cheese club *Téléfrom*__
 ### Skills & Interests
 
 __Programming languages:__ Python (pandas, sk-learn, pytorch, gym). A bit of Java, C, C++, JS, R.
+__Tools:__ Git, Jupyter.
 __Languages__ : French native speaker, working profiency in English (C1).
 
