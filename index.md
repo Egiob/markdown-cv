@@ -37,7 +37,7 @@ __Lycée Albert Camus, Fréjus__ Baccalaureate with highest honours
 ## Experiences
 
 `2021`
-__Research Intern__ in computer science at Conservatoire National des Arts et Métiers (CNAM). I investigate a branch of Deep Reinforcement Learningw where the objective is to generate and quantify diversified behaviours of agents in complex video games environments (including on Unity-3D). Keywords : Deep Reinforcement Learning, Intrinsic reward, Skill discovery.
+__Research Intern__ in computer science at Conservatoire National des Arts et Métiers (CNAM). I investigate a branch of Deep Reinforcement Learning where the objective is to generate and quantify diversified behaviours of agents in complex video games environments (including on Unity-3D). Keywords : Deep Reinforcement Learning, Intrinsic reward, Skill discovery.
 
 `2020`
 __Co-author__ of the book *Intégrer l'X ou l'école d'ingénieurs de tes rêves avec les Sherpas*, published in June 2020 by Vuibert (Albin-Michel). The book is a guide for undergraduate students to suceed at the nationwide competitive exams for engineering schools.
@@ -75,7 +75,7 @@ __President of the cheese club *Téléfrom*__
 
 ### Skills & Interests
 
-__Programming languages:__ Python (pandas, sk-learn, pytorch, gym). A bit of Java, C, C++, JS, R.
+__Programming languages:__ Python (pandas, sklearn, pytorch, gym). A bit of Java, C++, C, JS.
 __Tools:__ Git, Jupyter.
 __Languages__ : French native speaker, working profiency in English (C1).
 
