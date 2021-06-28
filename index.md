@@ -16,7 +16,7 @@ Research intern in Reinforcement Learing at Laboratoire Cedric (CNAM).
 ## Education
 
 `2020-2021`
-__Ecole Polytechnique, Paris (Palaiseau)__ Master of science in applied mathematics.
+__Ecole Polytechnique, Paris (Palaiseau)__ Master Data Science (applied mathematics department).
 
  - *Relevant courses* : Optimization, Statistical learning theory, Deep learning and Generative models, High dimensional statistics, Stochastic approximation and Reinforcement learning, Bootstrap and resampling methods, Computer vision.
 
@@ -37,7 +37,7 @@ __Lycée Albert Camus, Fréjus__ Baccalaureate with highest honours
 ## Experiences
 
 `2021`
-__Research Intern__ at Laboratoire Cedric (CNAM). I work on Reinforcement Learning, the main topic of research is to generate and quantify diversified behaviours of agents in a given environnement. The search of such sub-optimal policies is conducted on video games running on the Unity-3D engine.
+__Research Intern__ at Laboratoire Cedric (CNAM). I work on Reinforcement Learning, the main topic of research is to generate and quantify diversified behaviours of agents in complex video games environments. Keywords : Deep Reinforcement Learning, Intrinsic reward, Skill discovery.
 
 `2020`
 __Co-author__ of the book *Intégrer l'X ou l'école d'ingénieurs de tes rêves avec les Sherpas*, published in June 2020 by Vuibert (Albin-Michel). The book is a guide for undergraduate students to suceed at the nationwide competitive exams for engineering schools.
