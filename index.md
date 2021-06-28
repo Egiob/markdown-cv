@@ -37,7 +37,7 @@ __Lycée Albert Camus, Fréjus__ Baccalaureate with highest honours
 ## Experiences
 
 `2021`
-__Research Intern__ at Laboratoire Cedric (CNAM). I work on Reinforcement Learning, the main topic of research is to generate and quantify diversified behaviours of agents in complex video games environments. Keywords : Deep Reinforcement Learning, Intrinsic reward, Skill discovery.
+__Research Intern__ in computer science at Conservatoire National des Arts et Métiers (CNAM). I investigate a branch of Deep Reinforcement Learningw where the objective is to generate and quantify diversified behaviours of agents in complex video games environments (including on Unity-3D). Keywords : Deep Reinforcement Learning, Intrinsic reward, Skill discovery.
 
 `2020`
 __Co-author__ of the book *Intégrer l'X ou l'école d'ingénieurs de tes rêves avec les Sherpas*, published in June 2020 by Vuibert (Albin-Michel). The book is a guide for undergraduate students to suceed at the nationwide competitive exams for engineering schools.
